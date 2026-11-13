@@ -4,21 +4,19 @@
 
 **Python Developer | Data Analytics | Software Development**
 
-Computer Science and Engineering graduate (2025) from G. Pulla Reddy Engineering College, Andhra Pradesh. Based in Bengaluru, India.
-
-Interested in Python development, data analytics, software applications and solving practical technical problems.
+A Computer Science and Engineering graduate (2025) from G. Pulla Reddy Engineering College, Andhra Pradesh, currently based in Bengaluru, India. Interested in developing software applications, building Python-based solutions, and transforming data into meaningful insights through analytics.
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on Python projects in data analytics and software development.
+- 🔭 I'm currently building Python projects in data analytics and software development.
 - 🌱 I'm currently learning advanced SQL, Flask and data visualization.
-- 👯 I'm looking to collaborate on Python, data analytics and software development projects.
+- 👯 I'm looking to collaborate on Python development, software applications and data analytics projects.
 - 💬 Ask me about Python, Flask, SQL, software testing and data analysis.
-- 📊 Experience in data analysis, validation and visualization using Python and Excel.
-- 🧪 Hands-on experience in software testing, including designing 13 test cases and documenting 8 defects.
+- 📊 Experienced in data cleaning, validation, exploratory data analysis and visualization using Python and Excel.
+- 🧪 Hands-on software testing experience, including designing 13 test cases and documenting 8 defects.
 - 🚀 Contributed to Codachi, an adaptive coding platform, as part of a 3-member team.
 - ⚡ Fun fact: Codachi recommends coding problems based on users' solving performance.
-
+- 
 ## 🌐 Socials
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andhanamsuresh@gmail.com)
@@ -26,6 +24,33 @@ Interested in Python development, data analytics, software applications and solv
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/asuresh5l5/)
 
 ## 💻 Tech Stack
+
+## 📊 Data Analytics
+
+**Data Analysis & Machine Learning**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Databases**
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+**Core Concepts:** Data Cleaning · Data Validation · Data Processing · Exploratory Data Analysis · Data Visualization · Data Quality Checks · Analytical Reporting
+
+## 👩‍💻 Software Development
 
 **Programming Languages**
 
@@ -41,19 +66,12 @@ Interested in Python development, data analytics, software applications and solv
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-**Databases**
+**Version Control**
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Data Analytics & Machine Learning**
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
+**Core Concepts:** Object-Oriented Programming · Data Structures & Algorithms · SDLC · Debugging · Unit Testing Fundamentals · Software Testing · Test Case Design
 **Tools**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -124,13 +142,6 @@ A web-based coding platform that recommends programming problems based on user p
 - SAP S/4HANA Essentials for Beginners – Great Learning
 - Introduction to SAP – Great Learning
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=asuresh5l5&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=asuresh5l5&layout=compact&theme=tokyonight&hide_border=false)
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asuresh5l5&label=Profile%20Views&color=blue&style=flat)
 
